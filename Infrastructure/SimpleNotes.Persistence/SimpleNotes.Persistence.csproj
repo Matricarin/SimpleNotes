@@ -11,6 +11,7 @@
     </ItemGroup>
 
     <ItemGroup>
+      <ProjectReference Include="..\..\Core\SimpleNotes.Application\SimpleNotes.Application.csproj" />
       <ProjectReference Include="..\..\Core\SimpleNotes.Domain\SimpleNotes.Domain.csproj" />
     </ItemGroup>
 
