@@ -1,0 +1,6 @@
+@SimpleNotes.WebApi_HostAddress = http://localhost:5208
+
+GET {{SimpleNotes.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
